@@ -39,7 +39,7 @@ grc-templates/
 │   ├── issc-charter.md
 │   ├── issc-meeting-minutes.md
 │   ├── policy-exception-request.md
-│   ├── information-security-policy-tier2-example.md
+│   ├── access-control-policy-tier2.md
 │   └── governance-readiness-checklist.md
 ├── risk/            Risk management artifacts
 │   ├── asset-inventory.md
