@@ -17,6 +17,11 @@ organization's context — never deploy a template unmodified.
 3. Copy a template, replace every `[___]` field, and route it through your
    normal document control (version, owner, approval).
 
+**Prefer forms?** The `docx/` folder contains every template as a **fillable
+Microsoft Word form** (also opens in LibreOffice/OpenOffice): Tab between
+fields, pick from drop-down lists (e.g. `[Yes/No]`, treatment options), and
+save. See `docx/README.md` for details.
+
 ## Structure
 
 ```
@@ -71,6 +76,8 @@ grc-templates/
 │   ├── first-90-days-governance.md
 │   ├── security-champion-charter.md
 │   └── human-risk-90-day-plan.md
+├── docx/            Fillable Word-form versions of every template
+├── scripts/         md2docx.py + batch_docx.py (markdown -> fillable .docx)
 └── README.md        This file
 ```
 
