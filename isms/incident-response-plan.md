@@ -79,7 +79,8 @@ Never wait for confirmation — report first, classify later.
 
 | Obligation | Deadline | Trigger | Responsible |
 | :---------- | :------- | :------ | :---------- |
-| GDPR breach notification | 72 hours | Personal data breach | DPO/Legal |
+| GDPR breach notification | 72 hours (Art. 33) | Personal data breach | DPO/Legal |
+| GDPR data-subject notification | Without undue delay, where high risk (Art. 34) | Personal data breach likely to result in high risk to individuals | DPO/Legal |
 | NIS2 early warning | 24 hours | Significant incident (essential/important entity) | CISO |
 | NIS2 full notification | 72 hours | Same | CISO |
 | DORA initial notification | 4 hours | Major ICT-related incident (financial) | CISO |

@@ -58,7 +58,7 @@
 ## 4. CONTRACTUAL REQUIREMENTS
 
 - [ ] Data Processing Agreement in place
-- [ ] Breach notification clause (within [24/72] hours)
+- [ ] Breach notification clause (authority notification within [24/72] hours per applicable law; customer notification per contract — GDPR Art. 34: without undue delay where high risk is likely)
 - [ ] Right to audit clause
 - [ ] Sub-processor notification/approval clause
 - [ ] Exit and data-return clause (see Third-Party Exit Strategy)
