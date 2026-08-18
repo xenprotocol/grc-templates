@@ -9,6 +9,10 @@ numbering (A.X.XX), exact regulatory dates, the IIA Three Lines Model, and
 fill-in fields marked with `[___]` brackets. Adapt each template to your
 organization's context — never deploy a template unmodified.
 
+## Buy the Book
+
+**Amazon Kindle:** [The Governance, Risk and Compliance Architect](https://www.amazon.com/dp/B0G44BCZ4P) — ASIN B0G44BCZ4P
+
 ## Quick Start
 
 1. Clone or download this repository.
