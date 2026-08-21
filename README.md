@@ -1,17 +1,40 @@
 # GRC Architect — Companion Template Repository
 
+> **The GRC playbook for the EU AI Act enforcement year — and the frameworks that run beside it.**
+
+![Book cover](images/cover.jpg)
+
 Production-grade, fill-and-modify templates for **"The Governance, Risk and
 Compliance Architect: Building Resilient Frameworks for the AI Era"** by
 Thomas Hendriksen (xenprotocol), First Edition (2026).
 
-Every template follows the book's conventions: ISO 27001:2022 Annex A control
-numbering (A.X.XX), exact regulatory dates, the IIA Three Lines Model, and
-fill-in fields marked with `[___]` brackets. Adapt each template to your
-organization's context — never deploy a template unmodified.
+**42 templates across 8 domains**, every one following the book's
+conventions: ISO 27001:2022 Annex A control numbering (A.X.XX), exact
+regulatory dates, the IIA Three Lines Model, and fill-in fields marked with
+`[___]` brackets. Adapt each template to your organization's context — never
+deploy a template unmodified.
 
 ## Buy the Book
 
 **Amazon Kindle:** [The Governance, Risk and Compliance Architect](https://www.amazon.com/dp/B0G44BCZ4P) — ASIN B0G44BCZ4P
+**Paperback:** coming to Amazon
+**Free sample:** [samplers/grc-architect-sample-90day.pdf](samplers/grc-architect-sample-90day.pdf) — the book's "First 90 Days of Governance" plan
+
+## What's Inside
+
+| Domain | Templates | Highlights |
+| :----- | :-------- | :--------- |
+| `isms/` | 13 | ISO 27001:2022 core suite — policy, SoA, risk register, internal audit, incident response |
+| `governance/` | 5 | ISSC charter, meeting minutes, policy exceptions, access-control tiering |
+| `risk/` | 4 | Asset inventory, risk assessment worksheet, executive summary, risk communication |
+| `audit/` | 4 | Audit plan, access-control checklist, corrective action (5-Whys), code-deployment checklist |
+| `privacy-ai/` | 7 | ROPA, DPIA, retention, AI governance register, AI system card, provider/deployer RACI |
+| `resilience/` | 3 | BIA one-pager, press statement, third-party exit strategy |
+| `ot/` | 2 | OT asset inventory + security readiness (IEC 62443, zones & conduits) |
+| `checklists/` | 4 | Management review inputs, first-90-days, security champion charter, human-risk plan |
+
+Every template in the book links directly to its fillable file in this
+repository — 31 per-template pointers across 9 chapters.
 
 ## Quick Start
 
@@ -95,5 +118,13 @@ copyrighted work.
 
 - All templates use `[___]` for fill-in fields (LaTeX-safe, book convention).
 - Annex A controls referenced as `A.X.XX` (never "Clause 5.15").
-- Regulatory dates match the book's verified enforcement dates.
+- Regulatory dates match the book's verified enforcement dates (EU AI Act
+  high-risk obligations 2 Aug 2026; DORA 24h/72h/1-month clocks; CRA
+  December 2027).
 - "Three Lines Model" (IIA 2020), never "Three Lines of Defense".
+
+## Also by the Author
+
+**LLM Penetration Testing & AI Security** — the hands-on guide to breaking and
+hardening LLMs and autonomous agents, with **105 tested Python examples** in
+its companion repository: [github.com/xenprotocol/llm-pentesting-book](https://github.com/xenprotocol/llm-pentesting-book)
