@@ -17,6 +17,7 @@ deploy a template unmodified.
 ## Buy the Book
 
 **Amazon Kindle:** [The Governance, Risk and Compliance Architect](https://www.amazon.com/dp/B0G44BCZ4P) — ASIN B0G44BCZ4P
+**Direct from the author (PDF + EPUB, all future updates free):** [The GRC Architect — eBook](https://thomax806.gumroad.com/l/ehlris) on Gumroad
 **Paperback:** coming to Amazon
 **Free sample:** [samplers/grc-architect-sample-90day.pdf](samplers/grc-architect-sample-90day.pdf) — the book's "First 90 Days of Governance" plan
 
